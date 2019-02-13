@@ -34,7 +34,11 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/Users/isilove/Documents/67272/ChoreTracker/app/models/child.rb": [
+      "/Users/isilove/Documents/67272/ChoreTracker/app/models/task.rb": [
+        1,
+        null,
+        null,
+        1,
         1,
         null,
         null,
@@ -44,14 +48,6 @@
         null,
         3,
         2,
-        null,
-        null,
-        1,
-        null,
-        null,
-        1,
-        3,
-        null,
         null,
         null
       ],
@@ -67,10 +63,25 @@
         1,
         null
       ],
-      "/Users/isilove/Documents/67272/ChoreTracker/app/models/task.rb": [
+      "/Users/isilove/Documents/67272/ChoreTracker/app/models/child.rb": [
+        1,
+        null,
+        null,
         1,
         1,
+        null,
+        null,
         1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
         null
       ],
       "/Users/isilove/Documents/67272/ChoreTracker/app/controllers/application_controller.rb": [
@@ -325,6 +336,6 @@
         0
       ]
     },
-    "timestamp": 1550021092
+    "timestamp": 1550022404
   }
 }

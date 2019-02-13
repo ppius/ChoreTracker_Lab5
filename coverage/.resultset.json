@@ -37,6 +37,22 @@
       "/Users/isilove/Documents/67272/ChoreTracker/app/models/child.rb": [
         1,
         null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        3,
+        2,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
         null
       ],
       "/Users/isilove/Documents/67272/ChoreTracker/app/models/application_record.rb": [
@@ -45,12 +61,17 @@
         null
       ],
       "/Users/isilove/Documents/67272/ChoreTracker/app/models/chore.rb": [
-        0,
-        0
+        1,
+        null,
+        1,
+        1,
+        null
       ],
       "/Users/isilove/Documents/67272/ChoreTracker/app/models/task.rb": [
-        0,
-        0
+        1,
+        1,
+        1,
+        null
       ],
       "/Users/isilove/Documents/67272/ChoreTracker/app/controllers/application_controller.rb": [
         0,
@@ -304,6 +325,6 @@
         0
       ]
     },
-    "timestamp": 1550020028
+    "timestamp": 1550021092
   }
 }
